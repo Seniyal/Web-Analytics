@@ -1,4 +1,4 @@
-web_analytics_channel_analysis
+# web_analytics_channel_analysis
 
 With dataset of retailer's transaction data, which contains data of different channels/touch points worth analyzing, I conducted funnel analysis to see which channels bring the most conversion.
 
